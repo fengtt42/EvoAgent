@@ -13,7 +13,7 @@ The reimplementation of [EvoAgent](https://arxiv.org/pdf/2502.05907), an autonom
 #  🚀 Model Struction
 EvoAgent contains three modules, i.e., i) the memory-driven planner which uses an LLM along with the WM and interaction memory, to convert LH tasks into executable sub-tasks; ii) the WM-guided action controller which leverages WM to generate low-level actions and incorporates a self-verification mechanism to update multimodal experiences; iii) the experience-inspired reflector which implements a two-stage curriculum learning algorithm to select experiences for task-adaptive WM updates.
 
-<img src="/home/ftt/桌面/在研项目/5、其他/EvoAgent/Pics/2.png" div align="center"/>
+<img src="pics/2.png" div align="center"/>
 
 EvoAgent develops a continual World Model for EvoAgent, which can continuously update the multimodal experience pool and world knowledge through closed-loop dynamics. 
 
