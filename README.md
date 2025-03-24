@@ -3,8 +3,8 @@
 
 The reimplementation of [EvoAgent](https://arxiv.org/pdf/2502.05907), an autonomous-evolving agent with a continual World Model (WM), which can autonomously complete various LH tasks across environments through self-planning, self-control, and self-reflection, without human intervention. 
 
-![1.png](Pics%2F1.png)
 
+![2.png](Pics%2F2.png)
 >EvoAgent, the first autonomous-evolving agent with a continual World Model (WM). Take Minecraft as an example. 
 >Left: Various Long-Horizon (LH) tasks across environments. 
 >Middle: EvoAgent includes a memory-driven planner, a WM-guided action controller, and an experience-inspired reflector. EvoAgent can autonomously complete various LH tasks across environments by selfplanning, self-control, and self-reflection, without human intervention. 
