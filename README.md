@@ -53,7 +53,7 @@ If you find this code useful, please reference in your paper:
 
 ```bibtex
 @article{feng2025evoagent,
-  title={EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks},
+  title={EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks},
   author={Tongtong Feng and Xin Wang and Zekai Zhou and Ren Wang and Yuwei Zhan and Guangyao Li and Qing Li and Wenwu Zhu},
   journal={arXiv preprint arXiv:2502.05907},
   year={2025}
